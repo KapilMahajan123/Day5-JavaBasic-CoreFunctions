@@ -31,4 +31,5 @@ public class WindChill {
     		scanner.close();
       
      }
+	
 }	
