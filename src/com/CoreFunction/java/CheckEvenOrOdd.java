@@ -23,6 +23,6 @@ public class CheckEvenOrOdd {
 		 scanner.close();
 		
 
-	}
+	 }
 
 }
