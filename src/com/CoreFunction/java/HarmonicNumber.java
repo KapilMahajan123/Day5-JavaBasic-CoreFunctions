@@ -26,5 +26,5 @@ public class HarmonicNumber {
 		System.out.println("The Harmonic Series is: " + result);
 	     }
 		scanner.close();
-	 }
+       }
 }
