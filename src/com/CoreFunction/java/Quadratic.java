@@ -15,10 +15,10 @@ public class Quadratic {
 	 * formula (Note: Take a, b and c as input values) delta = b*b - 4*a*c Root 1 of
 	 * x = (-b + sqrt(delta))/(2*a) Root 2 of x = (-b - sqrt(delta))/(2*a)
 	 */
-	public static void main(String[] args) {
+	 public static void main(String[] args) {
 
 		Scanner scanner = new Scanner(System.in); // scanner input
-        //taking value for a , b & c
+               //taking value for a , b & c
 		System.out.println("Enter value for a : ");
 		int a = scanner.nextInt();
 
