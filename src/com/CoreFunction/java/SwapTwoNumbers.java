@@ -28,4 +28,5 @@ public class SwapTwoNumbers {
 		
 		scanner.close();
 	}
+	
 }
