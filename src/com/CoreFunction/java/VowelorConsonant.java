@@ -39,6 +39,6 @@ public class VowelorConsonant {
 			System.out.println("This is Consonent: ");
 		}
 		scanner.close();
-	}
+	 }
 
 }
