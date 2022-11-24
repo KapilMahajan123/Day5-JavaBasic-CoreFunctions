@@ -29,7 +29,7 @@ public class AmongLargestNumber {
 				System.out.println("Largest number is number three i.e :" + number3);
 			
 			scanner.close();
-		}
+	}
 
 		
 }
