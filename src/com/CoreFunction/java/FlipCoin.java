@@ -23,7 +23,7 @@ public class FlipCoin {
     	
     	//printing out percentage of turnout
     	System.out.println("Percentage of turnout Coin is "+ num*100 +"%");
-    }
+     }
 
 
 }
