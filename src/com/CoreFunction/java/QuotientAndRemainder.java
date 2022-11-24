@@ -29,7 +29,7 @@ public class QuotientAndRemainder {
 		
 		scanner.close();
 
-	}
+	 }
 
 
 }
