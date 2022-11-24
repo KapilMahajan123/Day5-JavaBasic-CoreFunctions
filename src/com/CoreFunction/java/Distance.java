@@ -24,6 +24,6 @@ public class Distance {
 			 System.out.println("Euclidean distance : " + distance);
 			 
 			 scanner.close();
-		}
+	}
 
 }
