@@ -45,7 +45,7 @@ public class Arraysof2d {
 	            System.out.println();
 	        }
 	        scanner.close();
-	    }
+	   }
 	      
 
 }
